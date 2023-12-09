@@ -1,7 +1,6 @@
 ![MasterHead](https://images.unsplash.com/photo-1550439062-609e1531270e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-<img align="right" alt="Coding" height="400" src="https://images.pexels.com/photos/4709285/pexels-photo-4709285.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"></img>
-<h1 align="center">Hi 👋, I'm Mohima Modak</h1>
 
+<h1 align="center">Hi 👋, I'm Mohima Modak</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://images.pexels.com/photos/4709285/pexels-photo-4709285.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"></img>
 
