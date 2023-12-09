@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Mohima Modak</h1>
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<p align="center">I am Mahima Modak. I am trying to learn web development. Because there is no end to learning. 
+I have learned Html , Css , Javascript , React.js , Mongodb so far. Also i can design websites well.</p>
 <img align="right" alt="Coding" width="400" src="https://images.pexels.com/photos/4709285/pexels-photo-4709285.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"></img>
 
 - 🔭 I’m currently working on **food loan**
